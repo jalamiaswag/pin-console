@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.jalamiaswagger.test" versionCode="10" version="1.0.0" >
+<name>PIN CONSOLE</name>
+<description>AT LAST WE CAN ENJOY HTML ON ANDROID</description>
+<author href="https://jalamiaswagger.com" >JALAMIA SWAGGER</author>
+<gap:platform name="android" />
+
+<icon src="icon.png" />
+</widget>
