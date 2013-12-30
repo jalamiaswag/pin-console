@@ -1,1 +1,3 @@
-function getHTML(){}
+function getHTML(){};
+
+alert ();
